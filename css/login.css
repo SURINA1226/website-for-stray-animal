@@ -1,0 +1,390 @@
+
+.banner {
+	position: relative;
+	height: 750px;
+	background: url(../images/img.png) no-repeat top center;
+	background-size:150% ;		
+}
+.container2{
+	position:absolute;
+	top:100px;
+	right: 500px;
+	width: 384px;
+	background-color: #ffffff;
+}
+/*.container {
+	position: absolute;
+	top:105px;
+	left:1145px;
+	width: 484px;
+	background-color: #ffffff;
+}*/
+
+.header {
+	padding-top: 30px;
+	padding-left: 57px;
+	font-size: 18px;
+	width: 306px;
+	margin: 0 auto;
+}
+
+.phoneLogin a {
+	color: #333;
+	text-decoration: none;
+}
+.phoneLogin a:hover{
+	color:#B4A078 ;
+}
+.line {
+	margin-left: 55px;
+	margin-right: 55px;
+	width: 1px;
+	height: 20px;
+	background: #ddd;
+}
+.login_box a:hover{
+	color:#ffffff ;
+}
+.getcode a:hover{
+	color: #333;
+}
+.emailLogin a {
+	color: #999;
+	text-decoration: none;
+}
+.emailLogin a:hover{
+	color:#B4A078 ;
+}
+.fl {
+	float: left;
+}
+
+.rl {
+	float: right;
+}
+
+.clear {
+	clear: both;
+}
+
+.login_box a {
+	text-decoration: none;
+	color: #ffffff;
+	outline: none;
+}
+
+.password a {
+	text-decoration: none;
+	color: #333;
+}
+
+.foot a {
+	text-decoration: none;
+	color: #999999;
+}
+
+.note a {
+	text-decoration: none;
+	color: #FFFFFF;
+	
+}
+
+.passwordLogin {
+	
+	font-size: 12px;
+	margin-top: 27px;
+	color: #666;
+}
+.password a{
+	margin-left: 244px;
+}
+
+
+.right{
+	padding:0;
+	background-color: #FFFFFF;
+	border: 1px solid #e8e8e8;
+	border-radius: 2px;
+}
+.right img{
+	margin: -5px 0px;
+}
+.text{
+	margin-left: 57px;
+	margin-top: 1px;
+}
+.input_box {
+	margin-top: 14px;
+	margin-left: 44px;
+	width: 298px;
+	height: 36px;
+	border: 1px solid #e8e8e8;
+	line-height: 36px;
+	border-radius: 2px;
+	outline: none;
+}
+
+.input_box2 {
+	margin-top: 15px;
+	margin-left: 44px;
+	width: 298px;
+	height: 36px;
+	border: 1px solid #e8e8e8;
+	line-height: 36px;
+	border-radius: 2px;
+}
+
+.input_box3 {
+	margin-top: 15px;
+	margin-left: 44px;
+	width: 298px;
+	height: 36px;
+	border: 1px solid #e8e8e8;
+	line-height: 36px;
+	border-radius: 2px;
+}
+
+.left {
+	height: 24px;
+	width: 20px;
+	padding: 7px 7px;
+	
+}
+.left3 {
+	height: 24px;
+	width: 20px;
+	padding: 7px 7px;
+	
+}
+.part2 .left {
+	height: 25px;
+	width: 20px;
+	padding: 6px 18px;
+	padding-left: 14px;
+}
+.line2 {
+	width: 1px;
+	height: 24px;
+	background: #ddd;
+	margin-top: 10px;
+}
+
+.tel input {
+	height: 36px;
+	margin-top: 0px;
+	margin-left: 8px;
+	width: 222px;
+	font-size: 14px;
+	background: #fff;
+	color: #333;
+	border: 0;
+	outline: none;
+}
+
+.code {
+	position: relative;
+	margin-top:15px;
+	margin-left: 44px;
+	width: 298px;
+	height: 36px;
+	border: 1px solid #e8e8e8;
+	line-height: 36px;
+	border-radius: 2px;
+}
+.code_img img{
+	position: absolute;
+	top: 54px;
+	right: 60px;
+	width: 50px;
+	display: none;
+}
+.code_img span{
+	position: absolute;
+	top: 50px;
+	right: 20px;
+	
+	display: none;
+}
+.code input {
+	height: 36px;
+	margin-top: 0px;
+	margin-left: 8px;
+	width: 192px;
+	font-size: 14px;
+	background: #fff;
+	color: #333;
+	border: 0;
+	outline: none;
+}
+
+.getcode {
+	
+	background-color: #eee;
+	width: 88px;
+	padding: 0px 5px;
+}
+
+.getsmscode {
+	padding-left: 8px;
+	color: #333;
+	text-decoration: none;
+	font-size: 14px;
+}
+
+.login_box {
+	width: 300px;
+	height: 48px;
+	margin-bottom: 11px;
+	margin: 53px 45px;
+	padding-bottom: 8px;
+	
+	outline: none;
+	color: #fff;
+	background: #b4a078;
+	font-size: 18px;
+	line-height: 61px;
+	border-radius: 2px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.foot {
+	
+	height:78px;
+	background: #F5F3EF;
+	width: 385px;
+	color: #9fabbf;
+	padding: 0;
+}
+
+.image {
+	width: 30px;
+	padding: 24px 5px;
+	padding-left: 8px;
+	display: inline-block;
+	text-align: center;
+}
+
+.first_img {
+	width: 30px;
+	padding: 25px 5px;
+	padding-left: 37px;
+	display: inline-block;
+	text-align: center;
+}
+
+.sec_img {
+	width: 30px;
+	padding: 20px 5px;
+	padding-left: 8px;
+	display: inline-block;
+	text-align: center;
+}
+
+.txt {
+	margin: 28px -5px;
+}
+
+.txt2 {
+	margin: 28px 24px;
+}
+
+.txt a {
+	color: #999;
+	font-size: 12px;
+	outline: none;
+	text-decoration: none;
+}
+
+.txt2 a {
+	color: #999;
+	font-size: 12px;
+	outline: none;
+	text-decoration: none;
+}
+
+.box {
+	padding-top: 35px;
+}
+
+.part1 {
+	display: none;
+}
+
+.part3 {
+	display: none;
+}
+
+.Validform_checktip {
+	line-height: 20px;
+	/* height: 20px; */
+	overflow: hidden;
+	color: #999;
+	font-size: 12px;
+}
+
+.part1 .Validform_wrong {
+	position: absolute;
+	top: 255px;
+	left: 50px;
+	width: 298px;
+	height: 35px;
+	color: #d62e3b;
+	font-size: 12px;
+	display: inline-block;
+	line-height: 35px;
+}
+.part2 .input_box2 .Validform_wrong {
+	position: absolute;
+	top: 193px;
+	left: 50px;
+	width: 298px;
+	height: 35px;
+	color: #d62e3b;
+	font-size: 12px;
+	display: inline-block;
+	line-height: 35px;
+}
+.part2 .input_box3 .Validform_wrong {
+	position: absolute;
+	top: 215px;
+	left: 50px;
+	width: 298px;
+	height: 35px;
+	color: #d62e3b;
+	font-size: 12px;
+	display: inline-block;
+	line-height: 35px;
+}
+.part3 .input_box .Validform_wrong {
+	position: absolute;
+	top: 193px;
+	left: 50px;
+	width: 298px;
+	height: 35px;
+	color: #d62e3b;
+	font-size: 12px;
+	display: inline-block;
+	line-height: 35px;
+}
+.part3 .input_box3 .Validform_wrong {
+	position: absolute;
+	top: 215px;
+	left: 50px;
+	width: 298px;
+	height: 35px;
+	color: #d62e3b;
+	font-size: 12px;
+	display: inline-block;
+	line-height: 35px;
+}
+.Validform_right {
+	display: none;
+}
+
+.noteLogin {
+	margin-left:270px;
+	font-size: 12px;
+	margin-top: 30px;
+	color: #666;
+}
